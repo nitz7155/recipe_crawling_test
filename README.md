@@ -1,1 +1,1 @@
-git remote add origin https://github.com/nitz7155/recipe_crawling_test.git
+https://www.coupang.com/np/categories/194436?listSize=60&sorter=saleCountDesc
