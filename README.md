@@ -1,1 +1,1 @@
-https://www.coupang.com/np/categories/194436?listSize=60&sorter=saleCountDesc
+https://www.coupang.com/np/categories/195011?listSize=60&sorter=saleCountDesc
